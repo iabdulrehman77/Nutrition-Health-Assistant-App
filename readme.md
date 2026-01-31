@@ -1,6 +1,6 @@
 # Nutrino – Nutrition & Health Assistant App 
 
-## 📌 Overview
+##  Overview
 **Nutrino** is a comprehensive **nutrition and health assistant mobile application** designed to help users track their health, calculate essential body metrics, explore healthy recipes, and receive smart assistance for nutrition-related queries.
 
 The app provides multiple built-in **health calculators**, a **recipe discovery system**, an **AI-powered assistant**, and a clean, intuitive UI with support for **system default theme and night mode**.
@@ -9,7 +9,7 @@ The app provides multiple built-in **health calculators**, a **recipe discovery 
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 Many people struggle to monitor their health metrics and maintain a balanced diet due to scattered information and lack of easy-to-use tools.
 
 Nutrino solves this problem by offering:
@@ -21,7 +21,7 @@ Nutrino solves this problem by offering:
 
 ---
 
-## 👥 Target Users
+##  Target Users
 - General users focused on health & fitness
 - Diet-conscious individuals
 - Students and learners
@@ -29,9 +29,9 @@ Nutrino solves this problem by offering:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🧮 Health Calculators
+###  Health Calculators
 - **BMI Calculator**
   - Calculates Body Mass Index using height, weight, and age
   - Helps users understand weight categories
@@ -44,7 +44,7 @@ Nutrino solves this problem by offering:
 
 ---
 
-### 🍽 Healthy Recipes
+###  Healthy Recipes
 - Browse a variety of **healthy recipes**
 - Each recipe includes:
   - Cooking time
@@ -55,7 +55,7 @@ Nutrino solves this problem by offering:
 
 ---
 
-### 🧠 Nutrino AI Assistant
+###  Nutrino AI Assistant
 - Built-in **AI-powered chat assistant**
 - Users can ask nutrition and health-related questions
 - Provides instant responses and guidance
@@ -63,7 +63,7 @@ Nutrino solves this problem by offering:
 
 ---
 
-### 🥦 Nutrition Categories
+###  Nutrition Categories
 - Vegetables
 - Fruits
 - Beans
@@ -75,13 +75,13 @@ Each category provides quick access to relevant nutrition content.
 
 ---
 
-### 💡 Tips of the Day
+###  Tips of the Day
 - Displays daily health and fitness tips
 - Encourages healthy habits and awareness
 
 ---
 
-### ⚙️ Settings & Customization
+###  Settings & Customization
 - **System Default Theme Support**
   - Automatically follows device theme
 - **Night Mode / Dark Mode**
@@ -95,7 +95,7 @@ Each category provides quick access to relevant nutrition content.
 
 ---
 
-### 📝 Feedback & Rating System
+###  Feedback & Rating System
 - Submit feedback by selecting:
   - Inquiry about product
   - Feedback on service
@@ -106,7 +106,7 @@ Each category provides quick access to relevant nutrition content.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - Flutter (Dart)
@@ -127,7 +127,7 @@ Each category provides quick access to relevant nutrition content.
 
 ---
 
-## 🧠 App Navigation
+##  App Navigation
 - Home Dashboard
 - Health Calculators
 - Healthy Recipes
@@ -136,14 +136,14 @@ Each category provides quick access to relevant nutrition content.
 
 ---
 
-## 🔒 Security & Privacy
+##  Security & Privacy
 - No unnecessary permissions
 - User-friendly privacy policy
 - Local data safety considerations
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 UI screenshots demonstrating the app features and flow are included in this repository.
 
 screenshots/
@@ -162,27 +162,27 @@ screenshots/
 
 ---
 
-## 🔒 Source Code
+##  Source Code
 The source code for this project is **private**.
 
 📩 Code can be shared **upon request** for learning or evaluation purposes.
 
 ---
 
-## 📚 Project Context
+##  Project Context
 This project was developed as a **personal / portfolio mobile application project**  
 focused on **nutrition awareness, health tracking, and modern UI design**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Abdul Rehman**  
 📧 Email: itsrehmn@gmail.com  
 🔗 GitHub / LinkedIn: iabdulrehman77
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Personalized diet plans
 - Cloud sync for user data
 - Advanced AI health insights

@@ -1,18 +1,18 @@
-# Nutrin – Nutrition & Health Assistant App 
+# Nutrino – Nutrition & Health Assistant App 
 
 ## 📌 Overview
-**Nutrin** is a comprehensive **nutrition and health assistant mobile application** designed to help users track their health, calculate essential body metrics, explore healthy recipes, and receive smart assistance for nutrition-related queries.
+**Nutrino** is a comprehensive **nutrition and health assistant mobile application** designed to help users track their health, calculate essential body metrics, explore healthy recipes, and receive smart assistance for nutrition-related queries.
 
 The app provides multiple built-in **health calculators**, a **recipe discovery system**, an **AI-powered assistant**, and a clean, intuitive UI with support for **system default theme and night mode**.
 
-⚠️ Nutrin is an informational tool and **not a substitute for professional medical advice**.
+⚠️ Nutrino is an informational tool and **not a substitute for professional medical advice**.
 
 ---
 
 ## 🎯 Problem Statement
 Many people struggle to monitor their health metrics and maintain a balanced diet due to scattered information and lack of easy-to-use tools.
 
-Nutrin solves this problem by offering:
+Nutrino solves this problem by offering:
 - Centralized health calculators
 - Nutrition-based food recommendations
 - Healthy recipes with step-by-step guidance
@@ -55,7 +55,7 @@ Nutrin solves this problem by offering:
 
 ---
 
-### 🧠 Nutrin AI Assistant
+### 🧠 Nutrino AI Assistant
 - Built-in **AI-powered chat assistant**
 - Users can ask nutrition and health-related questions
 - Provides instant responses and guidance
